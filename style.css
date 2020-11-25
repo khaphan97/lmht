@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serifS;
+  font-weight: bold;
+}
+body {
+  background-image: url("https://i.pinimg.com/originals/08/b6/1f/08b61fa24c6b173471b1e315ed70eb0c.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+#container {
+  width: 960px;
+  margin: 0 auto;
+  line-height: 35px;
+  background-color: rgba(0, 0, 0, 0.411);
+  padding: 20px;
+}
+h1 {
+  color: #fff;
+}
+p {
+  color: #fff;
+  margin: 20px 0;
+}
+
+img {
+  width: 100%;
+}
